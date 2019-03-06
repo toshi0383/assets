@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1441px" height="397px" viewBox="0 0 1441 397" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1773px" height="397px" viewBox="0 0 1773 397" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
     <title>banner</title>
     <desc>Created with Sketch.</desc>
     <g id="banner" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect fill="#FFFFFF" x="0" y="0" width="1441" height="397"></rect>
-        <g id="books" transform="translate(69.000000, 55.000000)" fill-rule="nonzero">
+        <g id="books" transform="translate(254.000000, 55.000000)" fill-rule="nonzero">
             <path d="M293,149.5 C293,228.752176 228.976036,293 150,293 C71.0239635,293 7,228.752176 7,149.5 C7,70.2455357 71.0239635,6 150,6 C228.976036,6 293,70.2455357 293,149.5 Z" id="Path" fill="#FF9518"></path>
             <path d="M76,272 C97.458793,284.691067 122.6061,292 149.5,292 C176.3939,292 201.541207,284.691067 223,272 L76,272 Z" id="Path" fill="#C67C4A"></path>
             <path d="M296.080078,252 L94.8974609,252 L94.8974609,260.535565 C94.8974609,260.934156 94.8153381,261.255671 94.6647794,261.464876 C94.5370328,261.638846 94.363663,261.726933 94.1469499,261.726933 C93.8754883,261.726933 93.5515592,261.592601 93.2093811,261.339353 L82.5448225,253.438009 C81.9220581,252.973354 81.0917053,252.717904 80.208885,252.717904 C79.3260654,252.717904 78.495712,252.973354 77.8706665,253.438009 L67.2083896,261.339353 C66.8662109,261.592601 66.5422818,261.726933 66.2708208,261.726933 C65.5750577,261.726933 65.5203092,260.813037 65.5203092,260.533363 L65.5203092,252 L2.91992188,252 C1.31396484,252 0,253.268443 0,254.818762 L0,269.181238 C0,270.731557 1.31396484,272 2.91992188,272 L296.080078,272 C297.686035,272 299,270.731557 299,269.181238 L299,254.818762 C299,253.268443 297.686035,252 296.080078,252 L296.080078,252 Z" id="Path" fill="#994334"></path>
@@ -36,28 +35,28 @@
             <path d="M237.620324,54 L57.7000544,54 C42.9779569,54 31,41.8874844 31,27 C31,12.1125162 42.9779569,0 57.7000544,0 L237.620324,0 C240.040551,0 242,1.98376763 242,4.42887657 C242,6.87629207 240.040551,8.85775315 237.620324,8.85775315 L57.7000544,8.85775315 C47.8070054,8.85775315 39.7593513,16.9958138 39.7593513,27 C39.7593513,37.0041862 47.8070054,45.1422469 57.7000544,45.1422469 L237.620324,45.1422469 C240.040551,45.1422469 242,47.1260151 242,49.5711234 C242,52.016233 240.040551,54 237.620324,54 Z" id="Path" fill="#0F9390"></path>
         </g>
         <text id="s" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="817" y="263">s</tspan>
+            <tspan x="1002" y="263">s</tspan>
         </text>
         <text id="c" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="472" y="263">c</tspan>
+            <tspan x="657" y="263">c</tspan>
         </text>
         <text id="m" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="590" y="263">m</tspan>
+            <tspan x="775" y="263">m</tspan>
         </text>
         <text id="d" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="709" y="263">d</tspan>
+            <tspan x="894" y="263">d</tspan>
         </text>
         <text id="h" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="924" y="262">h</tspan>
+            <tspan x="1109" y="262">h</tspan>
         </text>
         <text id="e" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="1032" y="263">e</tspan>
+            <tspan x="1217" y="263">e</tspan>
         </text>
         <text id="l" font-family="AndaleMono, Andale Mono" font-size="203" font-weight="normal" fill="#000000">
-            <tspan x="1126" y="262">l</tspan>
+            <tspan x="1311" y="262">l</tspan>
         </text>
         <text id="f" font-family="AndaleMono, Andale Mono" font-size="207" font-weight="normal" fill="#000000">
-            <tspan x="1215" y="262">f</tspan>
+            <tspan x="1400" y="262">f</tspan>
         </text>
     </g>
 </svg>
